@@ -79,7 +79,7 @@ section{
 }
 
 .party-image-bg{
-    background-image:linear-gradient(to right, rgba(24, 24, 24, 0.664),rgba(51, 51, 51, 0.26)) ,url(/images/Vectorrr.png);
+    background-image: linear-gradient(to right, rgba(24, 24, 24, 0.664),rgba(51, 51, 51, 0.26)) ,url(/images/Vectorrr.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
