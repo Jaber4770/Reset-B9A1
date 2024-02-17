@@ -206,3 +206,38 @@ section{
     color: white;
     background-color: red;
 }
+
+/* footer style */
+footer{
+    background-color: rgb(4, 4, 31);
+}
+.footer-container{
+    color: white;
+    width: 80%;
+    margin: 0px auto;
+    padding: 100px 0px;
+}
+.social-icon{
+    text-align: center;
+    margin: 40px 0px;
+}
+.social-icon img{
+    margin: 0px 15px;
+}
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+}
+.address{
+    margin-bottom: 50px;
+}
+.footer-last{
+    margin-top: 50px;
+}
+.footer-hook{
+    color: white;
+    text-decoration: none;
+}
+footer hr{
+   background-color: gray;
+}
