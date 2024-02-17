@@ -2,6 +2,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -19,6 +39,10 @@ section{
     color: red;
 }
 
+.styled-font{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 800;
+}
 
 /* header style */
 .header-container{
@@ -177,6 +201,10 @@ section{
 }
 .portfolio-items img{
     width: 100%;
+}
+.size{
+    font-size: 40px;
+
 }
 /* subscribe */
 .subscribe{
