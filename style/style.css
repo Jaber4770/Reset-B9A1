@@ -110,3 +110,20 @@ section{
     font-weight: bold;
 
 }
+.offer-comming-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+}
+.offer-box{
+    width: 30%;
+}
+.img-border{
+    border: 10px solid red;
+    border-radius: 100%;
+    padding: 20px;
+}
+.offer-description{
+    margin: 20px 0px;
+}
