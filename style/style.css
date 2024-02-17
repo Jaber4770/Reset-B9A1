@@ -85,3 +85,28 @@ section{
     margin-top: 100px;
     display: block;
 }
+.park-hotel{
+    background-image: linear-gradient(to bottom, #ffa4a4, rgba(255, 255, 255, 0.685));
+}
+.red-text{
+    color: red;
+}
+.hotel-info{
+    text-align: center;
+    padding-top: 100px;
+}
+.join-park-btn{
+    background-color: red;
+    color:white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    margin-top:80px;
+
+}
+.join-park-btn > a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+
+}
