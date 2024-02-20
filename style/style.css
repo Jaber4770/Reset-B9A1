@@ -46,7 +46,7 @@ section{
 
 /* header style */
 .header-container{
-    background-image:  linear-gradient(to bottom, rgba(41, 41, 41, 0.527), rgba(255, 255, 255, 0.158)), url(/images/Banner_Image.png);
+    background-image:  linear-gradient(to bottom, rgba(41, 41, 41, 0.527), rgba(255, 255, 255, 0.158)), url(images/Banner_Image.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -79,7 +79,7 @@ section{
 }
 
 .party-image-bg{
-    background-image: linear-gradient(to right, rgba(24, 24, 24, 0.664),rgba(51, 51, 51, 0.26)) ,url(/images/Vectorrr.png);
+    background-image: linear-gradient(to right, rgba(24, 24, 24, 0.664),rgba(51, 51, 51, 0.26)) ,url(images/Vectorrr.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
@@ -166,7 +166,7 @@ section{
     font-size: 50px;
 }
 .holiday-img{
-    background-image: url(/images/Rectangle-2.png);
+    background-image: url(images/Rectangle-2.png);
     background-position: bottom;
     background-repeat: no-repeat;
     display: flex;
@@ -174,7 +174,7 @@ section{
 
 }
 .shoping-girl{
-    background-image: url(/images/Rectangle-1.png);
+    background-image: url(images/Rectangle-1.png);
     background-repeat: no-repeat;
     background-position: right;
     z-index: -1;
